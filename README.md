@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/reneclavijo19)
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/reneclavijo/)
 
 <!--
 **reneclavijo/reneclavijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
