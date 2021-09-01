@@ -4,6 +4,10 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/reneclavijo/)
 
+[![Gamejolt](http://i.imgur.com/omO0QYz.png)](https://gamejolt.com/@SandiaGamEstudio)
+
+[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://sandiagamestudio.itch.io/)
+
 <!--
 **reneclavijo/reneclavijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
